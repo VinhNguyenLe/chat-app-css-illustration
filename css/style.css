@@ -382,7 +382,7 @@ input:focus{
 
 .attribution{
     position: absolute;
-    bottom: 0;
+    bottom: 12px;
     left: 50%;
     transform: translateX(-50%);
     color: var(--Very-Dark-Desaturated-Violet);
